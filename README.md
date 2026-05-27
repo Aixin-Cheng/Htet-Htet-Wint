@@ -12,4 +12,5 @@ Python · Pandas · Scikit-learn · Streamlit · SQL · Power BI
 - 🎵 Music Recommendation System
 
 ## 📫 Contact
-LinkedIn: your-link | Email: your-email
+LinkedIn: https://www.linkedin.com/in/htet-htet-wint/
+Email: htethtetwint12.es@gmail.com
